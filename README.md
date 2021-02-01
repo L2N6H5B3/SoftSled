@@ -10,4 +10,4 @@ http://softsled.net
 
 [The Green Button Forum Discussion](http://thegreenbutton.com/forums/thread/235392.aspx)
 
-[Development Info](/wiki/Development-Info)
+[Development Info](https://github.com/L2N6H5B3/SoftSled/wiki/Development-Info)
