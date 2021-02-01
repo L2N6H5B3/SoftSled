@@ -1,3 +1,5 @@
+**NOTE: This is a direct recreation of the original CodePlex repository for posterity's sake**
+
 # SoftSled
 An open source Windows 7 Media Center Extender written in .NET.
 
